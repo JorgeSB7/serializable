@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <name>Dragones1</name>
+        <author>Jorge Sanchez</author>
+        <publisher>JSB</publisher>
+        <isbn>42779</isbn>
+    </book>
+</books>
